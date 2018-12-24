@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkateGO</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Parches</string>
+    <string name="title_notifications">SkateShop</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
