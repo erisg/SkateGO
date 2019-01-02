@@ -11,6 +11,7 @@
         android:icon="@drawable/ic_action_name"
         android:title="@string/title_dashboard" />
 
+
     <item
         android:id="@+id/navigation_notifications"
         android:icon="@drawable/ic_action_shop"

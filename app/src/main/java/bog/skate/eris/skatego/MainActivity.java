@@ -17,7 +17,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
 
-   ImageView foto,foti;
+   ImageView foto;
 
 
     @Override
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         setContentView(R.layout.activity_main);
 
         foto= (ImageView) findViewById(R.id.foto);
-        foti=(ImageView) findViewById(R.id.foti);
+
 
 
         BottomNavigationView navigation = findViewById(R.id.navigation);
