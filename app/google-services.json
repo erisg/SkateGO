@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247795470744",
+    "firebase_url": "https://skatego-67c7a.firebaseio.com",
+    "project_id": "skatego-67c7a",
+    "storage_bucket": "skatego-67c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247795470744:android:fb6c42ba98970287",
+        "android_client_info": {
+          "package_name": "bog.skate.eris.skatego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247795470744-e4gpd1sko53cldqentklol20f4a094i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bog.skate.eris.skatego",
+            "certificate_hash": "51f92fc984cc4de81bbddaf03c169511b24022ec"
+          }
+        },
+        {
+          "client_id": "247795470744-vql3e4gsijmsntv3a3mjccic040kdd82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYaCzpWTnWv3T_ZIBXa11PX7hpjkHSLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247795470744-vql3e4gsijmsntv3a3mjccic040kdd82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
